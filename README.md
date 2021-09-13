@@ -6,7 +6,7 @@
 - 📫 How to reach me: Discord Karina Osuka#7312
 - 😃 Pronouns: she/her
 - 🌸 About me...
-- 🥦 I'm vegetarian...but I love a veggie pizza 💟
+- 🥦 I'm vegetarian...but I love a veggie pizza 😉
 - 🐕 I adopted a little dog in 2019
 - 
 -->
