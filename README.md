@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, MySQL
+- 🌱 I’m currently learning JavaScript, CSS, MySQL
 - 👯 I’m looking to collaborate on HTML, CSS
 - 🤔 I’m looking for help with JavaScript
 - 📫 How to reach me: Discord Karina Osuka#7312
