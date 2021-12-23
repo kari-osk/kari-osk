@@ -1,3 +1,6 @@
+![I am Karina Osuka](https://arturssmirnovs.github.io/github-prhttps://github.com/kari-osk/kari-osk/blob/main/about_me.pngofile-readme-generator/images/banner.png)
+
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning JavaScript, CSS, MySQL
