@@ -13,9 +13,4 @@
 - 
 -->
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kari-osk=kari-osk&show_icons=true&theme=radical)
-
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'(https://www.linkedin.com/in/www.linkedin.com/in/karinaosuka/)
-[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'(https://github.com/kari-osk)
-[<img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'>]
+![Karina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kari-osk&show_icons=true&theme=radical)
