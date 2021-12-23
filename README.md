@@ -1,9 +1,9 @@
-![I am Karina Osuka](https://arturssmirnovs.github.io/github-prhttps://github.com/kari-osk/kari-osk/blob/main/about_me.pngofile-readme-generator/images/banner.png)
-
+![I am Front-end Developer](https://arturssmirnovs.github.io/github-prhttps://github.com/kari-osk/kari-osk/blob/main/about_me.pngofile-readme-generator/images/banner.png)
 
 ### Hi there 👋
+#### I am Front-end Developer
 
-- 🌱 I’m currently learning JavaScript, CSS, MySQL
+- 🌱 I’m currently learning JavaScript, CSS, MySQL and JAVA. 
 - 👯 I’m looking to collaborate on HTML, CSS
 - 🤔 I’m looking for help with JavaScript
 - 📫 How to reach me: Discord Karina Osuka#7312
