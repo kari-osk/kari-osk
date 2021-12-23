@@ -1,4 +1,4 @@
-![I am Front-end Developer](https://arturssmirnovs.github.io/github-prhttps://github.com/kari-osk/kari-osk/blob/main/about_me.pngofile-readme-generator/images/banner.png)
+![I am Front-end Developer](https://github.com/kari-osk/kari-osk/blob/main/about_me.png)
 
 ### Hi there 👋
 #### I am Front-end Developer
