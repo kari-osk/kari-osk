@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning JavaScript, CSS, MySQL and JAVA. 
 - 👯 I’m looking to collaborate on HTML, CSS
 - 🤔 I’m looking for help with JavaScript
-- 📫 How to reach me: Discord Karina Osuka#7312
 - 😃 Pronouns: she/her
 - 🌸 About me...
 - 🥦 I'm vegetarian...but I love a veggie pizza 😉
@@ -22,4 +21,6 @@
   <a href="https://github.com/kari-osk" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
-</div>    
+</div>   
+<br>
+- 📫 Discord: Karina Osuka#7312
