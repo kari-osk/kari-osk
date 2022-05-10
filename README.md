@@ -1,7 +1,5 @@
-![I am Front-end Developer](https://github.com/kari-osk/kari-osk/blob/main/about_me.png)
+![I am Front-end Developer](https://github.com/kari-osk/kari-osk/blob/main/about_me.svg)
 ##
-![Karina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kari-osk&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kari-osk&layout=compact)](https://github.com/kari-osk/github-readme-stats)
 
 ### Hi there 👋
 
@@ -12,6 +10,9 @@
 - 🌸 About me...
 - 🥦 I'm vegetarian...but I love a veggie pizza 😉
 - 🐕 I adopted a little dog in 2019
+
+![Karina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kari-osk&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kari-osk&layout=compact)](https://github.com/kari-osk/github-readme-stats)
 
 ### Connect with me
 <div>
