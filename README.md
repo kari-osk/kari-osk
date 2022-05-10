@@ -1,8 +1,6 @@
 ![I am Front-end Developer](https://github.com/kari-osk/kari-osk/blob/main/about_me.svg)
 ##
 
-### Hi there 👋
-
 - 🌱 I’m currently learning JavaScript, CSS, MySQL and JAVA. 
 - 👯 I’m looking to collaborate on HTML, CSS
 - 🤔 I’m looking for help with JavaScript
