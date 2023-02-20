@@ -9,17 +9,8 @@
 - 🥦 I'm vegetarian...but I love a veggie pizza 😉
 - 🐕 I adopted a little dog in 2019
 
-### Connect with me
-<div>
-  <a href="https://www.linkedin.com/in/karina-osuka-84129a20b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-<!--   <a href="https://github.com/kari-osk" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a> -->
-</div>   
-<br>
-- 📫 Discord: Karina Osuka#7312
+
+
 
 <h2>Programming languages</h2>
 <p>
@@ -41,8 +32,9 @@
 
 <h2>Tools</h2>
 <p>
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
+
 
 <h2>Databases</h2>
 <p>
@@ -51,14 +43,29 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+<br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kari-osk&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kari-osk&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kari-osk&layout=compact&theme=cobalt&hide_border=true" />
+<br/>
 
-<h2>Latest posts in Linkedin</h2>
-**[Colmeia UX de Peter Morville](https://www.linkedin.com/pulse/colmeia-ux-de-peter-morville-karina-osuka/)
-**[Operador Ternário](https://www.linkedin.com/feed/update/urn:li:activity:6944625366216896512/)
-**[Expressão Arrow function](https://www.linkedin.com/feed/update/urn:li:activity:6950800255453933569/)
+<h2>Posts in Linkedin</h2>
+1.**[Expressão Arrow function](https://www.linkedin.com/feed/update/urn:li:activity:6950800255453933569/)
+<br/>
+2.**[Operador Ternário](https://www.linkedin.com/feed/update/urn:li:activity:6944625366216896512/)
+<br/>
+3.**[Colmeia UX de Peter Morville](https://www.linkedin.com/pulse/colmeia-ux-de-peter-morville-karina-osuka/)
 
-<h2>Contact me</h2>
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/creativetimofficial)
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]
-(href="https://www.linkedin.com/in/karina-osuka-84129a20b/")
+<h2>Connect with me</h2>
+<div>
+  <a href="https://www.linkedin.com/in/karina-osuka-84129a20b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://github.com/kari-osk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a> 
+</div>   
+<br>
