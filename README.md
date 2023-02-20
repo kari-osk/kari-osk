@@ -30,12 +30,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-<h2>Tools</h2>
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
-
-
 <h2>Databases</h2>
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -50,6 +44,11 @@
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kari-osk&layout=compact&theme=cobalt&hide_border=true" />
 <br/>
+
+<h2>Tools</h2>
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
 <h2>Design</h2>
 <p>
