@@ -52,12 +52,14 @@
 <br/>
 
 <h2>Posts in Linkedin</h2>
+<ul>
   **[Arrow function](https://www.linkedin.com/feed/update/urn:li:activity:6950800255453933569/)**
   <br />
   **[Operador Ternário](https://www.linkedin.com/feed/update/urn:li:activity:6944625366216896512/)**
   <br />
   **[🐝 Colmeia UX de Peter Morville](https://www.linkedin.com/pulse/colmeia-ux-de-peter-morville-karina-osuka/)**
-
+<ul>
+  
 <h2>Connect with me</h2>
 <div>
   <a href="https://www.linkedin.com/in/karina-osuka-84129a20b/" target="_blank">
