@@ -54,9 +54,7 @@
 <h2>Posts in Linkedin</h2>
 <ul>
   **[Arrow function](https://www.linkedin.com/feed/update/urn:li:activity:6950800255453933569/)**
-  <br />
   **[Operador Ternário](https://www.linkedin.com/feed/update/urn:li:activity:6944625366216896512/)**
-  <br />
   **[🐝 Colmeia UX de Peter Morville](https://www.linkedin.com/pulse/colmeia-ux-de-peter-morville-karina-osuka/)**
 <ul>
   
