@@ -51,6 +51,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kari-osk&layout=compact&theme=cobalt&hide_border=true" />
 <br/>
 
+<h2>Design</h2>
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
+</p>
+
 <h2>Posts in Linkedin</h2>
 <ul>
   <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6950800255453933569/" target="_blank">🏹 Arrow function</a></li>
@@ -59,12 +66,10 @@
 <ul>
   
 <h2>Connect with me</h2>
-<div>
   <a href="https://www.linkedin.com/in/karina-osuka-84129a20b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://github.com/kari-osk" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a> 
-</div>   
-<br>
+  </a>  
+
