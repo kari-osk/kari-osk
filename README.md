@@ -1,8 +1,8 @@
 ![I am Front-end Developer](https://github.com/kari-osk/kari-osk/blob/main/about_me.svg)
 ##
 
-- 🌱 I’m currently learning JavaScript, CSS, MySQL and JAVA. 
-- 👯 I’m looking to collaborate on HTML, CSS
+- 🌱 I’m currently learning Next.Js, JavaScript, 
+- 👯 I’m looking to collaborate on HTML, CSS, JS and React.Js
 - 🤔 I’m looking for help with JavaScript
 - 😃 Pronouns: she/her
 - 🌸 About me...
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<br/>
+<h2>GitHub</h2>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kari-osk&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kari-osk&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
@@ -52,12 +52,11 @@
 <br/>
 
 <h2>Posts in Linkedin</h2>
-1.**[Expressão Arrow function](https://www.linkedin.com/feed/update/urn:li:activity:6950800255453933569/)
-<br/>
-2.**[Operador Ternário](https://www.linkedin.com/feed/update/urn:li:activity:6944625366216896512/)
-<br/>
-3.**[Colmeia UX de Peter Morville](https://www.linkedin.com/pulse/colmeia-ux-de-peter-morville-karina-osuka/)
-
+<ul>
+    <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6950800255453933569/" target="_blank">Expressão Arrow function</a></li>
+    <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6944625366216896512/" target="_blank">Operador Ternário</a></li>
+    <li><a href="https://www.linkedin.com/pulse/colmeia-ux-de-peter-morville-karina-osuka/" target="_blank"></a>Colmeia UX de Peter Morville</li>
+</ul>
 
 <h2>Connect with me</h2>
 <div>
